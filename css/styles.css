@@ -1,7 +1,24 @@
 .best {
+  border-style: solid;
+  border-color: pink;
+  border-width: 15px;
 
 }
 .flashy {
   color: red;
   font-style: italic;
+}
+div {
+  width: 200px;
+  height:500px;
+}
+img {
+  width: 200px;
+  height: auto;
+}
+body {
+  font-family: sans-serif;
+  font-size: 18px;
+  color: purple;
+  font-weight:bold;
 }
